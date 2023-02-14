@@ -954,7 +954,7 @@ section {
   top: 30px;
   bottom: 30px;
   transition: all ease-in-out 0.3s;
-  z-index: 2;
+  /* z-index: 2; */
   opacity: 0;
 }
 .portfolio .portfolio-wrap img {
